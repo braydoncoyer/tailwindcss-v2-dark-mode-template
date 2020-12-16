@@ -9,7 +9,7 @@ function App() {
           <p className="sm:text-lg sm:leading-snug font-semibold tracking-wide uppercase text-emerald-500 dark:text-emerald-400 mb-3">
             TailwindCSS v2.0
           </p>
-          <h1 className="text-gray-900 dark:text-white text-3xl sm:text-5xl lg:text-6xl leading-none font-extrabold tracking-tight mb-8">Dark Mode Starter</h1>
+          <h1 className="text-gray-900 dark:text-white text-3xl sm:text-5xl lg:text-6xl leading-none font-extrabold tracking-tight mb-8">Dark Mode Template</h1>
           <div className="text-gray-500 dark:text-gray-400 text-lg sm:text-2xl font-normal sm:leading-10 space-y-6 mb-6">
             <p>This is a boilerplate template built with official features from version 2.0!</p>
             <a
