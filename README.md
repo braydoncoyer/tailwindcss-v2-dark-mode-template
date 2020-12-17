@@ -7,3 +7,5 @@ This project was generated using Create React App and Tailwind was implemented u
 For an explaination on how this template works, read the rundown.
 
 For full documentation, visit [tailwindcss.com](https://tailwindcss.com/docs/dark-mode).
+
+![Tailwind Dark Mode Template](https://media.giphy.com/media/hEinaxjPrhQGffoW3z/giphy.gif)
